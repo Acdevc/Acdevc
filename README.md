@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on data-driven Python projects  
 - 🌱 I'm continuously sharpening my SQL & database skills  
 - 💡 I love solving problems with clean, efficient code  
-- 📫 Reach me at: **your.email@example.com**  
+- 📫 Reach me at: **ai4techdev@gmail.com**  
 - ⚡ Fun fact: I enjoy turning messy data into meaningful stories  
 
 ---
